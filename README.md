@@ -31,16 +31,27 @@ apresentando informações sobre mim e meus interesses (incluindo uma seção de
 ## 📂 Estrutura de Arquivos
 
 ├── index.html # Página principal
+
 ├── project.html # Página do Kansas City Chiefs
+
 ├── about.html # Página "Sobre mim"
+
 ├── contacto.html # Página de contato
+
 ├── radiocheck2.html # Página de login
+
 ├── assets/
+
 │ ├── images/ # Imagens do site
+
 │ │ └── img-home.png # Imagem de background
+
 │ ├── apple-icon-180x180.png # Ícone para Apple
+
 │ └── favicon.ico # Ícone do site
+
 ├── main.3da94fde.css # Folha de estilos principal
+
 └── main.4c6e144e.js # JavaScript principal
 
 
