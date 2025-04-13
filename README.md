@@ -2,8 +2,9 @@
 
 ## 📌 Visão Geral
 Este é um website pessoal chamado "Loga Show". 
+
 O site serve como um mini portfólio pessoal e ponto de contato, 
-apresentando informações sobre o criador e seus interesses (incluindo uma seção dedicada ao Kansas City Chiefs).
+apresentando informações sobre mim e meus interesses (incluindo uma seção dedicada ao Kansas City Chiefs).
 
 ## 🚀 Funcionalidades
 - **Páginas Principais**:
